@@ -29,7 +29,8 @@ THEN I find a concise, descriptive title
 ## Review
 
 ## Completed
-* grouping 
-* insert ID
-*
-*
+* Grouping CSS Classes and Ids
+* Resize image
+* Insert link for original size image
+* Correct clickable text
+* Clean up empty spaces
